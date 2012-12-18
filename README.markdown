@@ -38,7 +38,7 @@ action is to clone a copy of the repository:
 
 Or, [download the trunk][dl].
 
-Just include the RouteMe.framework in your Xcode-project and import the <RouteMe/RouteMe.h> header.
+Just include the RouteMe.framework in your Xcode-project and import the &lt;RouteMe/RouteMe.h&gt; header.
 
 See the 'samples' subdirectory for usage examples.
 
