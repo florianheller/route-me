@@ -6,10 +6,11 @@ to look and feel much like the inbuilt iOS map library, but it's entirely open,
 and works with any map source.
 
 This fork contains the same framework as in the original repository, but compiles
-into an easy to use RouteMe.framework.
+into an easy to use RouteMe.framework, based on [this description][buildfw].
+   [buildfw]: https://github.com/jverkoey/iOS-Framework#walkthrough
 
 Currently, [OpenStreetMap][1], [Microsoft VirtualEarth][2], [CloudMade][3],
-[OpenAerialMap][4], [OpenCycleMap][5], [SpatialCloud][6], TileStream[7], and two
+[OpenAerialMap][4], [OpenCycleMap][5], [SpatialCloud][6], [TileStream][7], and two
 offline-capable, database-backed formats (DBMap and [MBTiles][8]) are supported
 as map sources.
 
