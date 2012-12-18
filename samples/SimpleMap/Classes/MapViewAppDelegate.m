@@ -27,7 +27,7 @@
 
 #import "MapViewAppDelegate.h"
 #import "MapViewViewController.h"
-#import "RMMapView.h"
+#import <RouteMe/RMMapView.h>
 
 @implementation MapViewAppDelegate
 

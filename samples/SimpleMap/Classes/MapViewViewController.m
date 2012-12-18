@@ -27,10 +27,6 @@
 
 #import "MapViewViewController.h"
 
-#import "RMMapContents.h"
-#import "RMFoundation.h"
-#import "RMMarker.h"
-#import "RMMarkerManager.h"
 
 @implementation MapViewViewController
 

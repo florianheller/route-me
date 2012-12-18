@@ -26,7 +26,7 @@
 // POSSIBILITY OF SUCH DAMAGE.
 
 #import <UIKit/UIKit.h>
-#import "RMMapView.h"
+#import <RouteMe/RouteMe.h>
 
 @interface MapViewViewController : UIViewController <RMMapViewDelegate> {
 	IBOutlet RMMapView * mapView;
