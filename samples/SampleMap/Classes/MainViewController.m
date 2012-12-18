@@ -8,7 +8,7 @@
 
 #import "MainView.h"
 
-#import "RMCloudMadeMapSource.h"
+#import <RouteMe/RMCloudMadeMapSource.h>
 
 @implementation MainViewController
 

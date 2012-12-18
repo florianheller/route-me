@@ -4,7 +4,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "RMMapView.h"
+#import <RouteMe/RMMapView.h>
 
 @class RootViewController;
 

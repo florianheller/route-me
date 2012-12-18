@@ -4,7 +4,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "RMMapView.h"
+#import <RouteMe/RouteMe.h>
 
 @interface MainViewController : UIViewController <RMMapViewDelegate> {
 	IBOutlet RMMapView * mapView;
